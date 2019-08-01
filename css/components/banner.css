@@ -1,0 +1,26 @@
+.banner {
+  background-image: url(../../images/jungle.jpg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  height: 600px ;
+  background-position: center;
+}
+
+.banner h1 {
+color: white;
+
+}
+
+.banner p {
+
+  color: white;
+  margin-bottom: 40px;
+}
+
+.banner a {
+
+margin-top: : 50px;
+
+}

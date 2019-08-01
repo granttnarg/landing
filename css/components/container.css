@@ -1,0 +1,33 @@
+.banner-container {
+  display: flex;
+  padding: 30px;
+  justify-content: center ;
+  align-items: center;
+
+}
+
+.banner-container h1 {
+  margin-bottom: 50px;
+}
+
+
+.banner-container p {
+  margin-bottom: 20px;
+}
+
+.how-container {
+  padding: 30px;
+  text-align: center;
+  background-color: #f2f2f2;
+}
+
+.how-container h2 {
+text-align: center;
+margin: 20px;
+
+}
+
+
+#center-test {
+  text-align: center;
+}
